@@ -3,6 +3,12 @@
 ## Overview
 LeetCode is a popular platform for enhancing coding and algorithmic skills, especially for technical interview preparation. With over 3,000 programming challenges, users often find it difficult to select the right problems that align with their learning goals and expertise. This project leverages data analysis and recommender systems to guide users in choosing LeetCode problems tailored to their needs.
 
+Project Report: [https://docs.google.com/document/d/1BravGo5Opn7yXceRKXl-fId8ffJXhIovuj2qwj-vPFY/edit?usp=sharing](https://docs.google.com/document/d/1BravGo5Opn7yXceRKXl-fId8ffJXhIovuj2qwj-vPFY/edit?usp=sharing)
+
+Project Presentation: [https://docs.google.com/presentation/d/1nlYHX5DsgJRXEhvUwcRjiKRMPD-ca1iJJ3dyrnG7QKA/edit?usp=sharing](https://docs.google.com/presentation/d/1nlYHX5DsgJRXEhvUwcRjiKRMPD-ca1iJJ3dyrnG7QKA/edit?usp=sharing)
+
+Project Video Demonstration: [https://drive.google.com/file/d/1QYveD_aVbY0o-irg3vfOfowuNhP2jswA/view?usp=sharing](https://drive.google.com/file/d/1QYveD_aVbY0o-irg3vfOfowuNhP2jswA/view?usp=sharing)
+
 ## Core Objective
 **Primary Goal:** Enhance user experience by providing personalized problem recommendations based on user performance and problem popularity.
 
